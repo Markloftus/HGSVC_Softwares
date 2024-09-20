@@ -6,7 +6,7 @@ Link to PAV for variant calling:
 
 URL of the Repository: https://github.com/EichlerLab/pav
 
-The URL of the README: https://github.com/EichlerLab/pav/README.md
+The URL of the README: [https://github.com/EichlerLab/pav/README.md](https://github.com/EichlerLab/pav/blob/main/README.md)
 
 ## Repository 2
 Code utilized for sample selection:
