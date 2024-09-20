@@ -85,7 +85,12 @@ URL of the Repository: https://github.com/Scott-Devine/MELT-LRA
 
 The URL of the README: https://github.com/Scott-Devine/MELT-LRA/README.md
 
+## Repository 13
+Segmental Duplication Analysis (SDA2):
 
+URL of the Repository: https://github.com/ChaissonLab/SegDupAnnotation2
+
+The URL of the README: https://github.com/ChaissonLab/SegDupAnnotation2/README.md
 
 
 
