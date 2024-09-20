@@ -2,7 +2,7 @@
 This README contains all the links of the repositories provided in the "Code Availability" section of "Complex genetic variation in nearly complete human genomes" along with the README files' URL.
 
 ## Repository 1
-Link to PAV for variant calling: 
+PAV for variant calling: 
 
 URL of the Repository: https://github.com/EichlerLab/pav
 
