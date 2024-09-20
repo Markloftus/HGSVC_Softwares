@@ -44,7 +44,7 @@ URL of the Repository: https://github.com/eblerjana/hgsvc3
 The URL of the README: [https://github.com/eblerjana/hgsvc3/README.md](https://github.com/eblerjana/hgsvc3/blob/main/README.md)
 
 ## Repository 7
-MEI, MHC, Iso-Seq, and SMN analysis:
+Code utilized for a subset of MEI, MHC, Iso-Seq, and SMN analyses:
 
 URL of the Repository: https://github.com/Markloftus/HGSVC3
 
