@@ -51,7 +51,7 @@ URL of the Repository: https://github.com/Markloftus/HGSVC3
 The URL of the README: [https://github.com/Markloftus/HGSVC3/README.md](https://github.com/Markloftus/HGSVC3/blob/main/README.md)
 
 ## Repository 8
-MEI annotation of PAV calls:
+MEI annotation of PAV calls, L1ME-AID:
 
 URL of the Repository: https://github.com/Markloftus/L1ME-AID
 
